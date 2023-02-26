@@ -9,8 +9,8 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-          
-          <ContactList/>
+         <ContactList></ContactList> 
+      
  
       </header>
     </div>
